@@ -11,9 +11,9 @@ html {
 a {
   display: inline-block;
   text-decoration: none;
+  padding: .2em .9em;
   font-family: Georgia, sans-serif;
   font-size: 1rem;
-  padding: .2em .9em;
 }
 
 .link-card {
@@ -44,8 +44,8 @@ h2 {
   font-family: Dosis, sans-serif;
   font-weight: 100;
   font-size: 1rem;
-  border: solid #785439;
   border-radius: 8px;
+  border: solid #785439;
   color: #fff;
   background-color: #785439;
 }
