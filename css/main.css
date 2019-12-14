@@ -5,3 +5,17 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+a {
+  display: inline-block;
+  font-family: Georgia, sans-serif;
+  font-size: 1rem;
+  text-decoration: none;
+  padding: .2em .9em;
+}
+
+h2 {
+  font-family: Dosis, sans-serif;
+  font-size: 1.5rem;
+  margin: 1rem 0 0;
+}
