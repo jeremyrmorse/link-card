@@ -10,9 +10,9 @@ html {
 
 a {
   display: inline-block;
+  text-decoration: none;
   font-family: Georgia, sans-serif;
   font-size: 1rem;
-  text-decoration: none;
   padding: .2em .9em;
 }
 
@@ -50,6 +50,7 @@ footer {
 
 .btn {
   display: inline-block;
+  padding: .4em .75em .5em;
   font-family: Dosis, sans-serif;
   font-weight: 100;
   font-size: 1rem;
@@ -57,14 +58,14 @@ footer {
   border-radius: 8px;
   color: #fff;
   background-color: #785439;
-  padding: .4em .75em .5em;
+
 }
 
 .link-card {
   color: #512200;
   line-height: 1.5;
-  border: solid #9a816d;
   border-radius: 8px;
+  border: solid #9a816d;
   background-color: #dcd4cd;
 }
 
