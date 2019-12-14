@@ -23,7 +23,7 @@ h2 {
 }
 
 div {
-  border-top: solid #785439
+  border-top: solid #785439;
   border-width: 2px;
 }
 
@@ -33,7 +33,7 @@ dl {
 
 dd {
   display: inline-block;
-  width: 45%
+  width: 45%;
   font-style: italic;
   margin: 0;
 }
@@ -56,7 +56,7 @@ footer {
   border: solid #785439;
   border-radius: 8px;
   color: #fff;
-  background-color: #785439
+  background-color: #785439;
   padding: .4em .75em .5em;
 }
 
