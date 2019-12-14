@@ -19,3 +19,41 @@ h2 {
   font-size: 1.5rem;
   margin: 1rem 0 0;
 }
+
+div {
+  border-top: solid #785439
+  border-width: 2px;
+}
+
+dl {
+  font-size: .875rem
+}
+
+dd {
+  display: inline-block;
+  width: 45%
+  font-style: italic;
+  margin: 0;
+}
+
+dt {
+  display: inline-block;
+  width: 45%;
+}
+
+footer {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.footer-link {
+  display: inline-block;
+  font-family: Dosis, sans-serif;
+  font-weight: 100;
+  font-size: 1rem;
+  border: solid #785439;
+  border-radius: 8px;
+  color: #fff;
+  background-color: #785439
+  padding: .4em .75em .5em;
+}
