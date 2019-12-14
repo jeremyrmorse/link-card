@@ -57,3 +57,19 @@ footer {
   background-color: #785439
   padding: .4em .75em .5em;
 }
+
+.link-card {
+  color: #512200;
+  line-height: 1.5;
+  border: solid #9a816d;
+  border-radius: 8px;
+  background-color: #dcd4cd;
+}
+
+.link-card h2 {
+  font-weight: bold;
+}
+
+.link-card:hover {
+  background-color: #cabdb2;
+}
